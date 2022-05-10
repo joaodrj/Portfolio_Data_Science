@@ -25,7 +25,7 @@ Estudante de Engenharia de controle e automação que se descobriu apaixonado pe
 ## Projetos:
 
 * **Anasilando a violência no Rio de Janeiro:** https://bit.ly/3F4tBS7
-
+* **Análise exploratória de dados - Doenças cardiovasculare:** https://bit.ly/3wbshZC
 
 ---
 
