@@ -28,7 +28,7 @@ Estou em constante busca pelo aprimoramento em Estatística, Machine Learning, N
 
 * **Anasilando a violência no Rio de Janeiro:** https://bit.ly/3F4tBS7
 * **Análise exploratória de dados - Doenças cardiovasculare:** https://bit.ly/3wbshZC
-* **Explorando o Airbnb em Paris: Análise e insights dos dados** https://bit.ly/3LtgZZf
+* **Explorando o Airbnb em Paris: Análise e insights dos dados** https://bit.ly/44Z0sTF
 
 ---
 
